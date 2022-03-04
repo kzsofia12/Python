@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b310496-3af4-4fcf-a5b0-0ced6e5895d9" name="Changes" comment="" />
+    <list default="true" id="91d21180-470f-4dba-b590-f9b6d2c24bc6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="25nQDc7H0wlaMTn5yCqsYlkDVDS" />
+  <component name="ProjectId" id="25vyG3dvwtgtVpExeMGtR19jhs8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,7 +27,7 @@
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="oop-coffee-machine-start" />
+      <module name="quiz-game-start" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -56,11 +56,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2b310496-3af4-4fcf-a5b0-0ced6e5895d9" name="Changes" comment="" />
-      <created>1646160252084</created>
+      <changelist id="91d21180-470f-4dba-b590-f9b6d2c24bc6" name="Changes" comment="" />
+      <created>1646421756034</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646160252084</updated>
+      <updated>1646421756034</updated>
     </task>
     <servers />
   </component>

@@ -1,10 +1,12 @@
-# import turtle
-#
+import turtle
+
 # timmy = turtle.Turtle()
 # print(timmy)
 # timmy.shape("turtle")
-# timmy.color("green")
+# timmy.color("red")
 # timmy.forward(100)
+# timmy.left(90)
+# timmy.forward(50)
 # my_screen = turtle.Screen()
 # my_screen.canvheight
 # my_screen.exitonclick()
