@@ -4,7 +4,6 @@ FONT = ("courier", 40, "normal")
 
 
 class Scoreboard(Turtle):
-
     def __init__(self):
         super().__init__()
         self.l_score = 0

@@ -24,6 +24,7 @@ class MoneyMachine:
             self.money_received += int(input(f"How many {coin}?: ")) * self.COIN_VALUES[coin]
         return self.money_received
 
+
     def make_payment(self, cost):
         """Returns True when payment is accepted, or False if insufficient."""
         self.process_coins()
